@@ -1,0 +1,6 @@
+{
+  "name": "LevelUp Nation",
+  "description": "A gamified productivity and real-world leveling system inspired by Solo Leveling. Gain XP, climb ranks from E to S, buy rewards with custom coins, and verify your progress with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
